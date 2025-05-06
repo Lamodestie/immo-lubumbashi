@@ -1,3 +1,92 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f2f2f2;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu-btn {
+    font-size: 20px;
+    background: none;
+    border: none;
+    color: white;
+}
+.nav-links {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+}
+.nav-links li a {
+    color: white;
+    text-decoration: none;
+}
+.hero {
+    background: #ccc;
+    text-align: center;
+    padding: 20px;
+}
+.hero img {
+    width: 90%;
+    border-radius: 10px;
+}
+.categories {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+.category {
+    background: white;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
+.listings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.listing {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 90%;
+}
+.listing img {
+    width: 100%;
+    border-radius: 10px;
+}
+footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background: white;
+}
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.search-btn {
+    background: #00bfff;
+    color: white;
+}
+.contact-btn {
+    background: #333;
+    color: white;
+}
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
