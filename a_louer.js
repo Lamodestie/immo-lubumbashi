@@ -1,0 +1,1 @@
+document.getElementById("forRentList").innerHTML = "<p>Maison A - $400/mois</p><p>Maison B - $350/mois</p>";

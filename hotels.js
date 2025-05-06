@@ -1,0 +1,1 @@
+document.getElementById("hotelsList").innerHTML = "<p>Hôtel Lubumbashi - $50/nuit</p><p>Hôtel du Centre - $60/nuit</p>";

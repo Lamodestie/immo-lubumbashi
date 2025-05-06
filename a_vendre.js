@@ -1,0 +1,1 @@
+document.getElementById("forSaleList").innerHTML = "<p>Maison 1 - $120 000</p><p>Maison 2 - $98 000</p>";
